@@ -1,0 +1,24 @@
+c:\users\hasan\documents\visual studio 2013\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csprojResolveAssemblyReference.cache
+c:\users\hasan\documents\visual studio 2013\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.frmOtel.resources
+c:\users\hasan\documents\visual studio 2013\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Properties.Resources.resources
+c:\users\hasan\documents\visual studio 2013\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csproj.GenerateResource.Cache
+c:\users\hasan\documents\visual studio 2013\Projects\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe
+c:\users\hasan\documents\visual studio 2013\Projects\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.pdb
+c:\users\hasan\documents\visual studio 2013\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+c:\users\hasan\documents\visual studio 2013\Projects\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
+C:\Users\sema\Desktop\3.SINIF\Nesneye Dayalı Programlama\GLBH\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+C:\Users\sema\Desktop\3.SINIF\Nesneye Dayalı Programlama\GLBH\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
+C:\Users\sema\Desktop\3.SINIF\Nesneye Dayalı Programlama\GLBH\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe
+C:\Users\sema\Desktop\3.SINIF\Nesneye Dayalı Programlama\GLBH\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.pdb
+C:\Users\sema\Desktop\3.SINIF\Nesneye Dayalı Programlama\GLBH\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\sema\Desktop\3.SINIF\Nesneye Dayalı Programlama\GLBH\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.frmOtel.resources
+C:\Users\sema\Desktop\3.SINIF\Nesneye Dayalı Programlama\GLBH\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Properties.Resources.resources
+C:\Users\sema\Desktop\3.SINIF\Nesneye Dayalı Programlama\GLBH\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csproj.GenerateResource.Cache
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\nyp benzer örnek\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.exe
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\nyp benzer örnek\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.pdb
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\nyp benzer örnek\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.exe
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\nyp benzer örnek\OtelOtomasyon\OtelOtomasyon\bin\Debug\OtelOtomasyon.pdb
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\nyp benzer örnek\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\nyp benzer örnek\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.frmOtel.resources
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\nyp benzer örnek\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.Properties.Resources.resources
+C:\Users\beritan\Desktop\Dersler\2.Sınıf 1.Dönem\C#\nyp benzer örnek\OtelOtomasyon\OtelOtomasyon\obj\Debug\OtelOtomasyon.csproj.GenerateResource.Cache

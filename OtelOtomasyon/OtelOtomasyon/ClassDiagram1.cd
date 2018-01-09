@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OtelOtomasyon.Fiyat" Collapsed="true">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fiyat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.Iletisim" Collapsed="true">
+    <Position X="12" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAgAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Iletisim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.Kisi" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAgAAAAAAAAAAAAAACACAAAgAACAAAACAAAAA=</HashCode>
+      <FileName>Kisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.Musteri" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAEAAAAAAAAAACAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Musteri.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.Oda" Collapsed="true">
+    <Position X="13.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAw=</HashCode>
+      <FileName>Oda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.OdaOzellik" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAEAAAAAAQAAAAAAIAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>OdaOzellik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.Otel" Collapsed="true">
+    <Position X="12" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAABAAAAAQAAEQAEAAEAQAAQAAEABAAAAAIABAAAgA=</HashCode>
+      <FileName>Otel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.Personel" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Personel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.Rezervasyon" Collapsed="true">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAQEAAAAAAAAAAAAAAAAACAgAACAAAAAAAAEAgA=</HashCode>
+      <FileName>Rezervasyon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.Rezervasyon60" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rezervasyon60.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.RezervasyonOnOdemeli" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RezervasyonOnOdemeli.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.RezervasyonStandart" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RezervasyonStandart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OtelOtomasyon.TatillerSezonlar" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>TatillerSezonlar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
